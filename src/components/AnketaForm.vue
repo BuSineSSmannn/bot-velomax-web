@@ -34,7 +34,7 @@
             <div class="input-field">
               <label>Gender</label>
               <label>
-                <select required>
+                <select required style="width: 100%">
                   <option disabled selected>Select gender</option>
                   <option>Male</option>
                   <option>Female</option>
